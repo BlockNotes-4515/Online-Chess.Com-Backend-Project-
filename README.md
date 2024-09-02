@@ -84,6 +84,21 @@ We welcome contributions from the community! If you find any bugs or have sugges
    git push origin feature-name
    ```
 5. **Submit a pull request.**
+   
+6. For your GitHub repository, you can include the following statement in the **Getting Started** or **Installation** section to instruct users on how to run the application:
+
+---
+
+### Run the Application
+To start the server and open the game in your browser at `http://localhost:3000`, run the following command:
+
+```bash
+node app.js
+```
+
+---
+
+This will clearly guide users on how to get the application up and running after installation.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
