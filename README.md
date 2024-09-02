@@ -51,13 +51,13 @@ Welcome to **Real-Time Multiplayer Chess**! This project is a web-based chess ga
 Experience the game visuals! Here's a look at the user interface from both player perspectives.
 
 <div align="center">
-    <img src="Images/Capture.PNG" alt="Screenshot 1" width="45%"> <img src="images/02.png" alt="Screenshot 2" width="45%">
-    <img src="Images/Capture1.PNG" alt="Screenshot 3" width="45%"> <img src="images/04.png" alt="Screenshot 4" width="45%">
-    <img src="Images/Capture2.PNG" alt="Screenshot 5" width="45%"> <img src="images/06.png" alt="Screenshot 6" width="45%">
-    <img src="Images/Capture3.PNG" alt="Screenshot 7" width="45%"> <img src="images/08.png" alt="Screenshot 8" width="45%">
-    <img src="Images/Capture4.PNG" alt="Screenshot 9" width="45%"> <img src="images/10.png" alt="Screenshot 10" width="45%">
-    <img src="Images/Capture5.PNG" alt="Screenshot 11" width="45%"> <img src="images/12.png" alt="Screenshot 12" width="45%">
-    <img src="Images/Capture6.PNG" alt="Screenshot 13" width="45%">
+    <img src="Images/Capture.PNG" alt="Screenshot 1" width="45%"> <img src="images/Capture1.PNG" alt="Screenshot 2" width="45%">
+    <img src="Images/Capture2.PNG" alt="Screenshot 3" width="45%"> <img src="images/Capture3.PNG" alt="Screenshot 4" width="45%">
+    <img src="Images/Capture4.PNG" alt="Screenshot 5" width="45%"> <img src="images/Capture5.PNG" alt="Screenshot 6" width="45%">
+    <img src="Images/Capture6.PNG" alt="Screenshot 7" width="45%"> <img src="images/Capture7.PNG" alt="Screenshot 8" width="45%">
+    <img src="Images/Capture8.PNG" alt="Screenshot 9" width="45%"> <img src="images/Capture9.PNG" alt="Screenshot 10" width="45%">
+    <img src="Images/Capture10.PNG" alt="Screenshot 11" width="45%"> <img src="images/Capture11.PNG" alt="Screenshot 12" width="45%">
+    <img src="Images/Capture12.PNG" alt="Screenshot 13" width="45%"><img src="images/Capture13.PNG" alt="Screenshot 12" width="45%">
 </div>
 
 ## Contributing
